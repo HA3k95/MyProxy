@@ -1,5 +1,6 @@
 # [TacoProxy V2](https://github.com/Tacosheel/TacoProxyV2)
 ### A node.js web proxy for use in combating web filters
+This is a fork so I can use it to my desire
 
 # Updates
 ```
